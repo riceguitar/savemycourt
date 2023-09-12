@@ -1,0 +1,1 @@
+smc-settings.php
