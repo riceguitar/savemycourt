@@ -1,0 +1,22 @@
+.address-part {
+	margin: 0;
+}
+
+.hours {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: block;
+}
+
+.hours li {
+	list-style: none;
+	margin: 0;
+	display: block;
+	border-bottom: 1px solid rgba(0,0,0,.25);
+}
+
+
+.hours .day {display: inline-block; width: 50%;}
+.hours .open {display: inline-block; width: 25%;}
+.hours .close {display: inline-block; width: 25%;}
